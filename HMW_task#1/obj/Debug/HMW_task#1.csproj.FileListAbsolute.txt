@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\HMW_task#1\HMW_task#1\bin\Debug\HMW_task#1.exe.config
+C:\Users\user\source\repos\HMW_task#1\HMW_task#1\bin\Debug\HMW_task#1.exe
+C:\Users\user\source\repos\HMW_task#1\HMW_task#1\bin\Debug\HMW_task#1.pdb
+C:\Users\user\source\repos\HMW_task#1\HMW_task#1\obj\Debug\HMW_task#1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HMW_task#1\HMW_task#1\obj\Debug\HMW_task#1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HMW_task#1\HMW_task#1\obj\Debug\HMW_task#1.exe
+C:\Users\user\source\repos\HMW_task#1\HMW_task#1\obj\Debug\HMW_task#1.pdb

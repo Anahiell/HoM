@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\HMW_task#1\Serching\bin\Debug\Serching.exe.config
+C:\Users\user\source\repos\HMW_task#1\Serching\bin\Debug\Serching.exe
+C:\Users\user\source\repos\HMW_task#1\Serching\bin\Debug\Serching.pdb
+C:\Users\user\source\repos\HMW_task#1\Serching\obj\Debug\Serching.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HMW_task#1\Serching\obj\Debug\Serching.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HMW_task#1\Serching\obj\Debug\Serching.exe
+C:\Users\user\source\repos\HMW_task#1\Serching\obj\Debug\Serching.pdb
