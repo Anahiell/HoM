@@ -1,0 +1,21 @@
+Numbers file contains 10 numbers.
+Primes file contains 3 primes.
+Numbers file size: 40 bytes.
+Primes file size: 12 bytes.
+Numbers content:
+65
+23
+26
+63
+88
+46
+67
+25
+47
+74
+
+Primes content:
+23
+67
+47
+

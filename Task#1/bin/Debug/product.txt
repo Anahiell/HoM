@@ -1,0 +1,10 @@
+Mult 1: 600
+Mult 2: 2915
+Mult 3: 832
+Mult 4: 1674
+Mult 5: 4462
+Mult 6: 485
+Mult 7: 1476
+Mult 8: 90
+Mult 9: 3724
+Mult 10: 2584

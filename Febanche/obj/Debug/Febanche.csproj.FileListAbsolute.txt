@@ -1,7 +1,0 @@
-C:\Users\user\source\repos\HMW_task#1\Febanche\bin\Debug\Febanche.exe.config
-C:\Users\user\source\repos\HMW_task#1\Febanche\bin\Debug\Febanche.exe
-C:\Users\user\source\repos\HMW_task#1\Febanche\bin\Debug\Febanche.pdb
-C:\Users\user\source\repos\HMW_task#1\Febanche\obj\Debug\Febanche.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\HMW_task#1\Febanche\obj\Debug\Febanche.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\HMW_task#1\Febanche\obj\Debug\Febanche.exe
-C:\Users\user\source\repos\HMW_task#1\Febanche\obj\Debug\Febanche.pdb

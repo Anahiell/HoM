@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Potock_HMW\Task#4\bin\Debug\Task#4.exe.config
+C:\Users\user\source\repos\Potock_HMW\Task#4\bin\Debug\Task#4.exe
+C:\Users\user\source\repos\Potock_HMW\Task#4\bin\Debug\Task#4.pdb
+C:\Users\user\source\repos\Potock_HMW\Task#4\obj\Debug\Task#4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Potock_HMW\Task#4\obj\Debug\Task#4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Potock_HMW\Task#4\obj\Debug\Task#4.exe
+C:\Users\user\source\repos\Potock_HMW\Task#4\obj\Debug\Task#4.pdb
