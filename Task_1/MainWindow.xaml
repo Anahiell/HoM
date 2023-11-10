@@ -13,8 +13,8 @@
             <RowDefinition/>
             <RowDefinition Height="0.2*"/>
         </Grid.RowDefinitions>
-        <Button Grid.Row="0" Margin="100,5,100,5" FontSize="25" Background="LightGreen"> Analizate </Button>
-        <RichTextBox x:Name="richTextBoxWithPlaceholder" FontSize="20" Grid.Row="1" Background="LightGray" Margin="8,5,8,5" GotFocus="RichTextBox_GotFocus" LostFocus="RichTextBox_LostFocus">
+        <Button Grid.Row="0" Margin="100,5,100,5" FontSize="25" Background="LightGreen" Click="Analizate_Click"> Analizate </Button>
+        <RichTextBox x:Name="richTextBoxWithPlaceholder" FontSize="20" Grid.Row="1" Background="LightGray" Margin="8,5,8,5">
             <FlowDocument>
                 <Paragraph>
                     <Run x:Name="placeholderText" FontSize="25" Text="Enter the text ..." Foreground="Gray" FontStyle="Italic"/>
@@ -41,6 +41,6 @@
                 <CheckBox x:Name="CheckBoxQ" FontSize="20" Margin="10" VerticalAlignment="Center">ON/OFF</CheckBox>
             </StackPanel>
         </Grid>
-        <Button Grid.Row="3" Margin="100,5,100,5" FontSize="25" Background="CadetBlue">Save to File</Button>
+        <Button Grid.Row="3" Margin="100,5,100,5" FontSize="25" Background="CadetBlue" Click="SaveToFile_Click">Save to File</Button>
     </Grid>
 </Window>

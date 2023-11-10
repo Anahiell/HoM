@@ -1,0 +1,5 @@
+Count Sentens: 2
+Count Simbols: 9
+Count Words: 1
+Count Sentens with ?: 1
+Count Sentens with !: 0
