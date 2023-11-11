@@ -1,0 +1,7 @@
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_3\bin\Debug\Task_3.exe
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_3\obj\Debug\Task_3.exe
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_3\obj\Debug\Task_3.pdb

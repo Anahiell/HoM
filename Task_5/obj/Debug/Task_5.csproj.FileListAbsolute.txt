@@ -1,0 +1,6 @@
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_5\bin\Debug\Task_5.exe.config
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_5\bin\Debug\Task_5.exe
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_5\bin\Debug\Task_5.pdb
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_5\obj\Debug\Task_5.exe
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\Task_5\obj\Debug\Task_5.pdb
