@@ -9,7 +9,6 @@ using SquareLib;
 using TextMangLib;
 using UserMangerLib;
 using FileWorkerLib;
-using System.IO;
 
 namespace TestMyLib
 {

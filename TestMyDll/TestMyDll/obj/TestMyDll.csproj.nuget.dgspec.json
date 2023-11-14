@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\TestMyDll\\TestMyDll\\TestMyDll.csproj": {}
+    "C:\\Users\\user\\Desktop\\HMW_POTOKI\\HoM\\TestMyDll\\TestMyDll\\TestMyDll.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\TestMyDll\\TestMyDll\\TestMyDll.csproj": {
+    "C:\\Users\\user\\Desktop\\HMW_POTOKI\\HoM\\TestMyDll\\TestMyDll\\TestMyDll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\TestMyDll\\TestMyDll\\TestMyDll.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\HMW_POTOKI\\HoM\\TestMyDll\\TestMyDll\\TestMyDll.csproj",
         "projectName": "TestMyDll",
-        "projectPath": "C:\\Users\\user\\source\\repos\\TestMyDll\\TestMyDll\\TestMyDll.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\HMW_POTOKI\\HoM\\TestMyDll\\TestMyDll\\TestMyDll.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\TestMyDll\\TestMyDll\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\HMW_POTOKI\\HoM\\TestMyDll\\TestMyDll\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,16 +9,16 @@
 
   <ItemGroup>
     <Reference Include="FileWorkerLib">
-      <HintPath>..\..\..\..\Desktop\HMW_POTOKI\HoM\FileWorkerLib\FileWorkerLib\bin\Debug\net6.0\FileWorkerLib.dll</HintPath>
+      <HintPath>..\..\FileWorkerLib\FileWorkerLib\bin\Debug\net6.0\FileWorkerLib.dll</HintPath>
     </Reference>
     <Reference Include="SquareLib">
-      <HintPath>..\..\..\..\Desktop\HMW_POTOKI\HoM\SquareLib\SquareLib\bin\Debug\net6.0\SquareLib.dll</HintPath>
+      <HintPath>..\..\SquareLib\SquareLib\bin\Debug\net6.0\SquareLib.dll</HintPath>
     </Reference>
     <Reference Include="TextMangLib">
-      <HintPath>..\..\..\..\Desktop\HMW_POTOKI\HoM\TextMangLib\TextMangLib\bin\Debug\net6.0\TextMangLib.dll</HintPath>
+      <HintPath>..\..\TextMangLib\TextMangLib\bin\Debug\net6.0\TextMangLib.dll</HintPath>
     </Reference>
     <Reference Include="UserMangerLib">
-      <HintPath>..\..\..\..\Desktop\HMW_POTOKI\HoM\UserMangerLib\UserMangerLib\bin\Debug\net6.0\UserMangerLib.dll</HintPath>
+      <HintPath>..\..\UserMangerLib\UserMangerLib\bin\Debug\net6.0\UserMangerLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 
