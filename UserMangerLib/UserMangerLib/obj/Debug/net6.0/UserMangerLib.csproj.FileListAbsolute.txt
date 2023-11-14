@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\bin\Debug\net6.0\UserMangerLib.deps.json
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\bin\Debug\net6.0\UserMangerLib.dll
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\bin\Debug\net6.0\UserMangerLib.pdb
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\UserMangerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\UserMangerLib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\UserMangerLib.AssemblyInfo.cs
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\UserMangerLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\UserMangerLib.dll
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\refint\UserMangerLib.dll
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\UserMangerLib.pdb
+C:\Users\user\source\repos\UserMangerLib\UserMangerLib\obj\Debug\net6.0\ref\UserMangerLib.dll

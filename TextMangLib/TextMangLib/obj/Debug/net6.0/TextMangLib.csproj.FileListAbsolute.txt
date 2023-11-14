@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\TextMangLib\TextMangLib\bin\Debug\net6.0\TextMangLib.deps.json
+C:\Users\user\source\repos\TextMangLib\TextMangLib\bin\Debug\net6.0\TextMangLib.dll
+C:\Users\user\source\repos\TextMangLib\TextMangLib\bin\Debug\net6.0\TextMangLib.pdb
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\TextMangLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\TextMangLib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\TextMangLib.AssemblyInfo.cs
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\TextMangLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\TextMangLib.dll
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\refint\TextMangLib.dll
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\TextMangLib.pdb
+C:\Users\user\source\repos\TextMangLib\TextMangLib\obj\Debug\net6.0\ref\TextMangLib.dll
