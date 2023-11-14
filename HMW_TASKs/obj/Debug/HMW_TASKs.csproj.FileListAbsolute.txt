@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\HMW_TASKs\HMW_TASKs\bin\Debug\HMW_TASKs.exe.config
+C:\Users\user\source\repos\HMW_TASKs\HMW_TASKs\bin\Debug\HMW_TASKs.exe
+C:\Users\user\source\repos\HMW_TASKs\HMW_TASKs\bin\Debug\HMW_TASKs.pdb
+C:\Users\user\source\repos\HMW_TASKs\HMW_TASKs\obj\Debug\HMW_TASKs.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\HMW_TASKs\HMW_TASKs\obj\Debug\HMW_TASKs.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\HMW_TASKs\HMW_TASKs\obj\Debug\HMW_TASKs.exe
+C:\Users\user\source\repos\HMW_TASKs\HMW_TASKs\obj\Debug\HMW_TASKs.pdb
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\HMW_TASKs\bin\Debug\HMW_TASKs.exe.config
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\HMW_TASKs\bin\Debug\HMW_TASKs.exe
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\HMW_TASKs\bin\Debug\HMW_TASKs.pdb
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\HMW_TASKs\obj\Debug\HMW_TASKs.csproj.AssemblyReference.cache
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\HMW_TASKs\obj\Debug\HMW_TASKs.csproj.CoreCompileInputs.cache
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\HMW_TASKs\obj\Debug\HMW_TASKs.exe
+C:\Users\Monkiell\OneDrive\Рабочий стол\системное прогр\HoM\HMW_TASKs\obj\Debug\HMW_TASKs.pdb
