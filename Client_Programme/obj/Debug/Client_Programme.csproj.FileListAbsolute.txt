@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\ConsoleApp3\Client_Programme\bin\Debug\Client_Programme.exe.config
+C:\Users\user\source\repos\ConsoleApp3\Client_Programme\bin\Debug\Client_Programme.exe
+C:\Users\user\source\repos\ConsoleApp3\Client_Programme\bin\Debug\Client_Programme.pdb
+C:\Users\user\source\repos\ConsoleApp3\Client_Programme\obj\Debug\Client_Programme.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApp3\Client_Programme\obj\Debug\Client_Programme.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApp3\Client_Programme\obj\Debug\Client_Programme.exe
+C:\Users\user\source\repos\ConsoleApp3\Client_Programme\obj\Debug\Client_Programme.pdb
